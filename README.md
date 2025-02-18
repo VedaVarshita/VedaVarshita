@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hello, I am [VedaVarshita!](https://vedavarshita.github.io/about/) 👋
 
 - 🔭 I pursuing masters in AI/ML at drexel university, where I blend AI research with software development to create impactful solutions.
